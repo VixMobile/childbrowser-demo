@@ -9,7 +9,7 @@
 <feature name="http://plugins.phonegap.com/ChildBrowser/1.0.1" />
 <feature name="http://api.phonegap.com/1.0/network" />
 
-<preference name="phonegap-version" value="2.9" />
+<preference name="phonegap-version" value="2.9.0" />
 <preference name="webviewbounce" value="false" />
 
 </widget>
